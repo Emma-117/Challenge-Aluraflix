@@ -1,2 +1,2 @@
-# Challenge-Aluraflix
-Aqui presento mi challenge aluraflix
+git clone https://github.com/tu-usuario/aluraflix.git
+cd aluraflix
